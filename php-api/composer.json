@@ -1,0 +1,16 @@
+{
+    "name": "ibm/personalityinsightsapi",
+    "description": "PHP API implementation of Waton Personality Insights",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul ponce",
+            "email": "paul.ponce@tecsup.edu.pe"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "abraham/twitteroauth": "^0.7.4",
+        "ext-json": "*"
+    }
+}
